@@ -6,9 +6,9 @@
 2. 프로젝트 기관 : 알파코 캠퍼스 (6개월 과정)
 3. 프로젝트 진행 : 웹과 딥러닝 진행
 4. 프로젝트 설명 
-   사용 데이터 : MNIST Train 6만장, Test 3만장
-   사용 모델구조 : architecture.jpg
-   결과 이미지 : output.jpg
+   1) 사용 데이터 : MNIST Train 6만장, Test 3만장
+   2) 사용 모델구조 : architecture.jpg
+   3) 결과 이미지 : output.jpg
    
 <p align="center"><img src="https://github.com/user-attachments/assets/b4bbace4-beff-4ae5-a5dc-0b50e3aa433f" height="700px" width="1200px"> </p>
 <p align="center"><img src="https://github.com/user-attachments/assets/6ee7ae68-6910-4473-9046-9383301da71a" height="700px" width="1200px"> </p>
