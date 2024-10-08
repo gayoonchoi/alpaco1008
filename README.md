@@ -13,7 +13,7 @@
 <p align="center"><img src="https://github.com/user-attachments/assets/b4bbace4-beff-4ae5-a5dc-0b50e3aa433f" height="700px" width="1200px"> </p>
 <p align="center"><img src="https://github.com/user-attachments/assets/6ee7ae68-6910-4473-9046-9383301da71a" height="700px" width="1200px"> </p>
 
-5. 참고자료
+5. 참고자료 <br> 
 1)"Imagenet classification with deep convolutional neural networks." Advances in neural information processing systems 25,  Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton.  (2012)
 
 6. 프로젝트 후기
