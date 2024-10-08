@@ -14,7 +14,7 @@
 <p align="center"><img src="https://github.com/user-attachments/assets/6ee7ae68-6910-4473-9046-9383301da71a" height="700px" width="1200px"> </p>
 
 5. 참고자료
-Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. "Imagenet classification with deep convolutional neural networks." Advances in neural information processing systems 25 (2012)
+1)"Imagenet classification with deep convolutional neural networks." Advances in neural information processing systems 25,  Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton.  (2012)
 
 6. 프로젝트 후기
 CNN으로는 0~9 이미지의 학습 성능이 잘 나왔지만 transform을 어떻게 주냐에 따라서 성능을 감소시키는 기법들이 뭐인지 리포트하고 싶었다.
