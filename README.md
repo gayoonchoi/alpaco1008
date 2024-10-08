@@ -7,7 +7,7 @@
 
 결과 이미지는 output.jpg처럼 나왔고, 전체 설계도는 architecture.jpg로 만들었다. 
 
-<p align="center"><img src="image_src">![architecture](https://github.com/user-attachments/assets/b4bbace4-beff-4ae5-a5dc-0b50e3aa433f)
+<p align="center">![architecture](https://github.com/user-attachments/assets/b4bbace4-beff-4ae5-a5dc-0b50e3aa433f)
 
 ![output](https://github.com/user-attachments/assets/6ee7ae68-6910-4473-9046-9383301da71a) </p>
 
