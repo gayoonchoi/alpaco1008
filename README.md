@@ -7,7 +7,7 @@
 
 결과 이미지는 output.jpg처럼 나왔고, 전체 설계도는 architecture.jpg로 만들었다. 
 
-<p align="center"><img src="https://github.com/user-attachments/assets/b4bbace4-beff-4ae5-a5dc-0b50e3aa433f"> </p>
+<p align="center"><img src="https://github.com/user-attachments/assets/b4bbace4-beff-4ae5-a5dc-0b50e3aa433f" height="100px" width="300px"> </p>
 <p align="center"><img src="https://github.com/user-attachments/assets/6ee7ae68-6910-4473-9046-9383301da71a"> </p>
 
 참고는 Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. "Imagenet classification with deep convolutional neural networks." Advances in neural information processing systems 25 (2012). 을 하였고, 느낌점은, CNN으로는 0~9 이미지의 학습 성능이 잘 나왔지만 transform을 어떻게 주냐에 따라서 성능을 감소시키는 기법들이 뭐인지 리포트하고 싶었다.
